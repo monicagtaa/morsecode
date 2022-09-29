@@ -1,0 +1,26 @@
+{
+  "name": "morsecode",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/monicagtaa/morsecode.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/monicagtaa/morsecode.git"
+  },
+  "homepage": "https://github.com/monicagtaa/morsecode.git#readme",
+  "devDependencies": {
+    "@babel/core": "^7.19.3",
+    "@babel/preset-env": "^7.19.3",
+    "babel-jest": "^29.1.0",
+    "jest": "^29.1.1"
+  }
+}
